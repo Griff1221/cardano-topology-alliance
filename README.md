@@ -53,3 +53,6 @@ https://github.com/gitmachtl/scripts/tree/master/cardano/ff-testnet
 We should accept submission of external pool operators which we add to our other relays manually. Since our relays are 
 interconnected, each of our x members could add (external / x) entries to his other topology files. This would ensure 
 that those external pool operators add at least one of our relays.
+
+Pool operators who do want their relays added to our secondary relays can apply here:
+https://gist.github.com/MarcelKlammer/58bf67652c0a103bac96725bb463692c
