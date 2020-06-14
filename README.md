@@ -3,10 +3,11 @@ A group to interconnect reliable relays on the Cardano Network
 
 #### Goal:
 Currently there is no transparency regarding whether our relays are listed in any other topology file and if listed, 
-whether a relays was restarted using that very topology file. Each pool operator can only hope that others list his/her
-relays.
+whether this external relay was restarted using that very topology file. Each pool operator can only hope that others 
+list his/her relays.
 
-This bears the risk of not being properly connected to get our blocks on chain.
+This bears the risk of not being properly connected to get our blocks on chain. Especially new pool operators struggle
+to be listed on established topology lists.
 
 To increase the chance of being properly connected to the network, members of this group promise to utilize one or more 
 of their relays to list all members of this alliance.
@@ -15,7 +16,7 @@ Effect: If any one member is listed on a well connected relay, each of the membe
 the network.
 
 To increase the chance of being well connected, each member should enlist on the IOHK peer list and try to ask other 
-pool operators directly to include their relays in their lists as fixed entries.
+pool operators directly to include their relays in their lists as fixed/static entries.
 
 #### Members
 
@@ -50,9 +51,10 @@ https://github.com/gitmachtl/scripts/tree/master/cardano/ff-testnet
 
 #### External relays
 
-We should accept submission of external pool operators which we add to our other relays manually. Since our relays are 
-interconnected, each of our x members could add (external / x) entries to his other topology files. This would ensure 
-that those external pool operators add at least one of our relays.
+We accept submissions of external pool operators which we add to our secondary relays manually. Since our relays are 
+interconnected, each of our x members only needs to add a subset of external entries ( num external / x members). In return
+the external pool operaters should add at least one of the alliance members and try to get enlisted on other topology
+lists as well.
 
-Pool operators who do want their relays added to our secondary relays can apply here:
+Pool operators who want their relays added to our secondary relays can apply here:
 https://gist.github.com/MarcelKlammer/58bf67652c0a103bac96725bb463692c
