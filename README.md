@@ -21,16 +21,31 @@ pool operators directly to include their relays in their lists as fixed entries.
 
 #### TITAN - https://www.titanstaking.io/
 
+ + currently 4 relays
+ + at least 4 more planned
+
 TITAN will dedicate 1 or 2 of its relays to this alliance, while all other (at least 2) relays will be connected to 
 random relays to enable those random pool operators to produce blocks.
 
 #### ATADA - https://stakepool.at/
+
++ currently 2 relays
 
 Author of the well regarded script collection:
 https://github.com/gitmachtl/scripts/tree/master/cardano/ff-testnet
 
 #### SPIKE - https://spike.crypto2099.io/
 
++ currently 2 relays
+
+#### ₳4PROFIT - https://ada4profit.com/
+
+ + currently 3 relays
+ + up to 5 more planned
+
+#### HERMESPOOL - https://www.hyperborea-networks.com/
+
++ currently 2 relays
 
 
 #### External relays
