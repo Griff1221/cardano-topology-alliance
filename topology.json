@@ -11,8 +11,7 @@
     { "addr": "relays.stakepool.at",              "port": 3001, "valency": 2, "operator": "atada_stakepool", "node": "ATADA" },
     { "addr": "relay01.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay01" },
     { "addr": "relay02.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay02" },
-    { "addr": "relay-0.ada4profit.com",           "port": 4321, "valency": 1, "operator": "@ada4profit" },
-    { "addr": "relay-1.ada4profit.com",           "port": 4321, "valency": 1, "operator": "@ada4profit" },
+    { "addr": "relays.ada4profit.com",            "port": 4321, "valency": 2, "operator": "@ada4profit" },
 
     { "addr": "fill.with.random.relays.until.25", "port": 3001, "valency": 1 }
   ]
