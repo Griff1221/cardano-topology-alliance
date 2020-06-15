@@ -1,0 +1,17 @@
+{
+  "Producers": [
+  
+    { "comment": "CTA member relays, add one of those to your topology.json and restart your relay:"},
+  
+    { "addr": "relays.ada4profit.com",            "port": 4321, "valency": 2, "operator": "@ada4profit" },
+    { "addr": "relays.stakepool.at",              "port": 3001, "valency": 2, "operator": "atada_stakepool", "node": "ATADA" },
+    { "addr": "relay01.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay01" },
+    { "addr": "relay02.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay02" },
+    { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp." },
+    { "addr": "relays.ff.titanstaking.io",        "port": 4321, "valency": 2, "operator": "@TITANstaking @marcelbaumberg" },
+    
+    { "comment": "External relays added to TITAN r1"},
+  
+    { "addr": "199.247.22.236",                   "port": 4002, "valency": 1, "operator": "lc-frankfurt" }
+  ]
+}
