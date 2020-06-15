@@ -17,6 +17,8 @@
     { "addr": "172.30.0.147",                     "port": 3002, "valency": 1, "operator": "OctasRelay" },
     { "addr": "194.32.79.182",                    "port": 3001, "valency": 1, "operator": "Chris-Graffagnino"},
     { "addr": "45.61.49.115",                     "port": 3001, "valency": 1, "operator": "AgapePool", "node": "relay1" },
-    { "addr": "95.217.13.208",                    "port": 3001, "valency": 1, "operator": "Staker Space" }
+    { "addr": "95.217.13.208",                    "port": 3001, "valency": 1, "operator": "Staker Space" },
+    { "addr": "68.183.76.4",                      "port": 30500,"valency": 1, "operator": "TOBG", "node": "relay1" },
+    { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" }
   ]
 }
