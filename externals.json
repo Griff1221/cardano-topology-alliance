@@ -21,6 +21,20 @@
     { "addr": "68.183.76.4",                      "port": 30500,"valency": 1, "operator": "TOBG", "node": "relay1" },
     { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" },
     { "addr": "86.26.138.25",                     "port": 3001, "valency": 1, "operator": "Crazy Career" },
-    { "addr": "86.26.138.25",                     "port": 3002, "valency": 1, "operator": "Crazy Career" }
+    { "addr": "86.26.138.25",                     "port": 3002, "valency": 1, "operator": "Crazy Career" },
+    { "addr": "82.1.136.20",                      "port": 8081, "valency": 1, "operator": "SWIMR1" },
+    { "addr": "82.1.136.20",                      "port": 8082, "valency": 1, "operator": "SWIMR2" },
+
+    { "comment": "External relays added to TITAN r2"},
+
+    { "addr": "194-36-88-164.cloud-xip.io",       "port": 8001, "valency": 1, "operator": "genePool One"},
+    { "addr": "104-128-66-166.cloud-xip.io",      "port": 8001, "valency": 1, "operator": "genePool One"},
+    { "addr": "relay1.baremetalstaking.com",      "port": 4001, "valency": 1, "operator": "BareMetalStaking Relay1"},
+    { "addr": "relay2.baremetalstaking.com",      "port": 4002, "valency": 1, "operator": "BareMetalStaking Relay2"},
+    { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
+    { "addr": "relay1.indiastakepool.com",        "port": 3001, "valency": 1, "operator": "INDIA Stake Pool" },
+    { "addr": "relay2.indiastakepool.com",        "port": 4001, "valency": 1, "operator": "INDIA Stake Pool" },
+    { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
+    { "addr": "75.40.55.247",                     "port": 8082, "valency": 1, "operator": "Fancy2" }
   ]
 }
