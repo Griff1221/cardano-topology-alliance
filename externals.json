@@ -10,7 +10,7 @@
     { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp." },
     { "addr": "relays.ff.titanstaking.io",        "port": 4321, "valency": 2, "operator": "@TITANstaking @marcelbaumberg" },
     
-    { "comment": "External relays added to TITAN r1"},
+    { "comment": "Block0 - External relays added to TITAN r1"},
   
     { "addr": "199.247.22.236",                   "port": 4002, "valency": 1, "operator": "lc-frankfurt" },
     { "addr": "35.232.118.177",                   "port": 3001, "valency": 1, "operator": "CardanesiaRelay1" },
@@ -25,7 +25,7 @@
     { "addr": "relay2.indiastakepool.com",        "port": 4001, "valency": 1, "operator": "INDIA Stake Pool" },
     { "addr": "75.40.55.247",                     "port": 8082, "valency": 1, "operator": "Fancy2" },
 
-    { "comment": "External relays added to TITAN r2 and SPIKE r1"},
+    { "comment": "Block1 - External relays added to TITAN r2 and SPIKE r1"},
 
     { "addr": "95.217.13.208",                    "port": 3001, "valency": 1, "operator": "Staker Space" },
     { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" },
