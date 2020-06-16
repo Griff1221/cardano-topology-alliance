@@ -36,6 +36,20 @@
     { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
     { "addr": "relay1.indiastakepool.com",        "port": 3001, "valency": 1, "operator": "INDIA Stake Pool" },
     { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
-    { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1" }
+    { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1" },
+
+    { "comment": "Block2 - External relays added to ... "},
+
+    { "comment": "Block3 - External relays added to HERMESPOOL R1"},
+
+    { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1"},
+    { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
+    { "addr": "75.40.55.247",                     "port": 8082, "valency": 1, "operator": "Fancy2" },
+    { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
+    { "addr": "relay1.baremetalstaking.com",      "port": 4001, "valency": 1, "operator": "BareMetalStaking Relay1"},
+    { "addr": "relay2.baremetalstaking.com",      "port": 4002, "valency": 1, "operator": "BareMetalStaking Relay2"},
+    { "addr": "86.26.138.25",                     "port": 3001, "valency": 1, "operator": "Crazy Career" },
+    { "addr": "86.26.138.25",                     "port": 3002, "valency": 1, "operator": "Crazy Career" }
+
   ]
 }
