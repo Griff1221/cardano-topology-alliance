@@ -10,7 +10,7 @@
     { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp." },
     { "addr": "relays.ff.titanstaking.io",        "port": 4321, "valency": 2, "operator": "@TITANstaking @marcelbaumberg" },
     
-    { "comment": "Block0 - External relays added to TITAN r1"},
+    { "comment": "External relays: Block0 - total valency: 15 - added to TITAN r1"},
   
     { "addr": "199.247.22.236",                   "port": 4002, "valency": 1, "operator": "lc-frankfurt" },
     { "addr": "35.232.118.177",                   "port": 3001, "valency": 1, "operator": "CardanesiaRelay1" },
@@ -24,8 +24,11 @@
     { "addr": "relay1.baremetalstaking.com",      "port": 4001, "valency": 1, "operator": "BareMetalStaking Relay1"},
     { "addr": "relay2.indiastakepool.com",        "port": 4001, "valency": 1, "operator": "INDIA Stake Pool" },
     { "addr": "75.40.55.247",                     "port": 8082, "valency": 1, "operator": "Fancy2" },
+    { "addr": "34.89.101.197",                    "port": 4001, "valency": 1, "operator": "Animal Relay 1" },
+    { "addr": "relay01.stakepoolcentral.com",     "port": 17654,"valency": 1, "operator": "Stake Pool Central - Relay 1" },
+    { "addr": "relay.1.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
 
-    { "comment": "Block1 - External relays added to TITAN r2 and SPIKE r1"},
+    { "comment": "External relays: Block1 - total valency: 16 - added to TITAN r3, SPIKE r1"},
 
     { "addr": "95.217.13.208",                    "port": 3001, "valency": 1, "operator": "Staker Space" },
     { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" },
@@ -37,10 +40,15 @@
     { "addr": "relay1.indiastakepool.com",        "port": 3001, "valency": 1, "operator": "INDIA Stake Pool" },
     { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
     { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1" },
+    { "addr": "735.202.127.11",                   "port": 4002, "valency": 1, "operator": "Animal Relay 2" },
+    { "addr": "htn.lunarpool.io",                 "port": 3001, "valency": 1, "operator": "MOON9 - lunarpool.io"},
+    { "addr": "relay.2.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
+    { "addr": "relay.3.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
+    { "addr": "relays.cardaspians.io",            "port": 3001, "valency": 2, "operator": "CASP" },
 
     { "comment": "Block2 - External relays added to ... "},
 
-    { "comment": "Block3 - External relays added to HERMESPOOL R1"},
+    { "comment": "External relays: Block3 - total valency: 8 - added to HERMESPOOL R1"},
 
     { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1"},
     { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
