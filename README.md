@@ -38,6 +38,7 @@ https://github.com/gitmachtl/scripts/tree/master/cardano/ff-testnet
 #### SPIKE - https://spike.crypto2099.io/
 
 + currently 2 relays
++ at least 2 more planned
 
 #### ₳4PROFIT - https://ada4profit.com/
 
