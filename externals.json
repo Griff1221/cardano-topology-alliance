@@ -9,16 +9,15 @@
     { "addr": "relay02.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay02" },
     { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp." },
     { "addr": "relays.ff.titanstaking.io",        "port": 4321, "valency": 2, "operator": "@TITANstaking @marcelbaumberg" },
-    
-    { "comment": "External relays: Block0 - total valency: 15 - added to TITAN r1"},
-  
-    { "addr": "199.247.22.236",                   "port": 4002, "valency": 1, "operator": "lc-frankfurt" },
+
+
+
+    { "comment": "External relays: Block0 - total valency: 3 - added to:"},
+    { "comment": "TITAN r-eu-1"},
+
     { "addr": "35.232.118.177",                   "port": 3001, "valency": 1, "operator": "CardanesiaRelay1" },
     { "addr": "172.30.0.147",                     "port": 3002, "valency": 1, "operator": "OctasRelay" },
-    { "addr": "194.32.79.182",                    "port": 3001, "valency": 1, "operator": "Chris-Graffagnino"},
     { "addr": "45.61.49.115",                     "port": 3001, "valency": 1, "operator": "AgapePool", "node": "relay1" },
-    { "addr": "68.183.76.4",                      "port": 30500,"valency": 1, "operator": "TOBG", "node": "relay1" },
-    { "addr": "86.26.138.25",                     "port": 3001, "valency": 1, "operator": "Crazy Career" },
     { "addr": "82.1.136.20",                      "port": 8081, "valency": 1, "operator": "SWIMR1" },
     { "addr": "194-36-88-164.cloud-xip.io",       "port": 8001, "valency": 1, "operator": "genePool One"},
     { "addr": "relay1.baremetalstaking.com",      "port": 4001, "valency": 1, "operator": "BareMetalStaking Relay1"},
@@ -27,37 +26,57 @@
     { "addr": "34.89.101.197",                    "port": 4001, "valency": 1, "operator": "Animal Relay 1" },
     { "addr": "relay01.stakepoolcentral.com",     "port": 17654,"valency": 1, "operator": "Stake Pool Central - Relay 1" },
     { "addr": "relay.1.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
+    { "addr": "156.249.8.207",                    "port": 8081, "valency": 1, "operator": "Kopi1" },
+    { "addr": "relay1.quirkyfreckle.com",         "port": 3001, "valency": 1, "operator": "quirky freckle" },
 
-    { "comment": "External relays: Block1 - total valency: 16 - added to TITAN r3, SPIKE r1"},
+    { "comment": "External relays: Block1 - total valency: 12 - added to:"},
+    { "comment": "TITAN r-eu-2"},
+    { "comment": "SPIKE r1"},
+    { "comment": "ATADA r1"},
+    { "comment": "ada4profit r2"},
 
     { "addr": "95.217.13.208",                    "port": 3001, "valency": 1, "operator": "Staker Space" },
-    { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" },
     { "addr": "86.26.138.25",                     "port": 3002, "valency": 1, "operator": "Crazy Career" },
     { "addr": "82.1.136.20",                      "port": 8082, "valency": 1, "operator": "SWIMR2" },
-    { "addr": "104-128-66-166.cloud-xip.io",      "port": 8001, "valency": 1, "operator": "genePool One"},
-    { "addr": "relay2.baremetalstaking.com",      "port": 4002, "valency": 1, "operator": "BareMetalStaking Relay2"},
-    { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
     { "addr": "relay1.indiastakepool.com",        "port": 3001, "valency": 1, "operator": "INDIA Stake Pool" },
     { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
     { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1" },
-    { "addr": "735.202.127.11",                   "port": 4002, "valency": 1, "operator": "Animal Relay 2" },
     { "addr": "htn.lunarpool.io",                 "port": 3001, "valency": 1, "operator": "MOON9 - lunarpool.io"},
     { "addr": "relay.2.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
-    { "addr": "relay.3.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
+    { "addr": "relay02.alphastaking.com",         "port": 3002, "valency": 1, "operator": "AlphaPool" },
     { "addr": "relays.cardaspians.io",            "port": 3001, "valency": 2, "operator": "CASP" },
+    { "addr": "relay.brothershipool.org",         "port": 3304, "valency": 1, "operator": "BSP"},
 
-    { "comment": "Block2 - External relays added to ... "},
+    { "comment": "External relays: Block2 - total valency: 13 - added to:"},
+    { "comment": "TITAN r-eu-3"},
 
-    { "comment": "External relays: Block3 - total valency: 8 - added to HERMESPOOL R1"},
+    { "addr": "199.247.22.236",                   "port": 4002, "valency": 1, "operator": "lc-frankfurt" },
+    { "addr": "104-128-66-166.cloud-xip.io",      "port": 8001, "valency": 1, "operator": "genePool One"},
+    { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
+    { "addr": "relay01.alphastaking.com",         "port": 3001, "valency": 1, "operator": "AlphaPool" },
+    { "addr": "3.249.241.111",                    "port": 3002, "valency": 1, "operator": "OctasRelay2" },
+    { "addr": "45.32.110.195",                    "port": 3000, "valency": 1, "operator": "SAIB" },
+    { "addr": "35.202.127.11",                    "port": 4002, "valency": 1, "operator": "Animal Relay 2" },
+    { "addr": "relay.brothershipool.org",         "port": 3305, "valency": 1, "operator": "BSP"},
+    { "addr": "relays.kernopool.com",             "port": 7801, "valency": 2, "operator": "KernoPool" },
+    { "addr": "68.183.76.4",                      "port": 30500,"valency": 1, "operator": "TOBG", "node": "relay1" },
+    { "addr": "173.79.33.207",                    "port": 3002, "valency": 1, "operator": "stake-ada" },
+    { "addr": "134.209.80.70",                    "port": 3001, "valency": 1, "operator": "MASP-relay-NL" },
+
+    { "comment": "External relays: Block3 - total valency: 10 - added to:"},
+    { "comment": "HERMESPOOL R1"},
+    { "comment": "ATADA r2"},
+    { "comment": "SPIKE r2"},
 
     { "addr": "r1.dolcapool.eu",                  "port": 7777, "valency": 1, "operator": "DOLCA1"},
     { "addr": "75.40.55.247",                     "port": 8081, "valency": 1, "operator": "Fancy1" },
-    { "addr": "75.40.55.247",                     "port": 8082, "valency": 1, "operator": "Fancy2" },
-    { "addr": "relay.ff.0.ghisx-pool.com",        "port": 3001, "valency": 1, "operator": "@GHISX" },
-    { "addr": "relay1.baremetalstaking.com",      "port": 4001, "valency": 1, "operator": "BareMetalStaking Relay1"},
     { "addr": "relay2.baremetalstaking.com",      "port": 4002, "valency": 1, "operator": "BareMetalStaking Relay2"},
+    { "addr": "173.79.33.207",                    "port": 3001, "valency": 1, "operator": "stake-ada" },
+    { "addr": "34.71.21.147",                     "port": 3001, "valency": 1, "operator": "Adamant" },
+    { "addr": "156.249.8.207",                    "port": 8082, "valency": 1, "operator": "Kopi2" },
     { "addr": "86.26.138.25",                     "port": 3001, "valency": 1, "operator": "Crazy Career" },
-    { "addr": "86.26.138.25",                     "port": 3002, "valency": 1, "operator": "Crazy Career" }
-
+    { "addr": "relay.3.blueskystakepool.com.",    "port": 3001, "valency": 1, "operator": "Blue"},
+    { "addr": "94.237.48.153",                    "port": 30501,"valency": 1, "operator": "TOBG", "node": "relay2" },
+    { "addr": "194.32.79.182",                    "port": 3001, "valency": 1, "operator": "Chris-Graffagnino"}
   ]
 }
