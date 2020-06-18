@@ -7,7 +7,8 @@
     { "addr": "relays.stakepool.at",              "port": 3001, "valency": 2, "operator": "atada_stakepool", "node": "ATADA" },
     { "addr": "relay01.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay01" },
     { "addr": "relay02.hyperborea-networks.com",  "port": 5001, "valency": 1, "operator": "Hermespool Relay02" },
-    { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp." },
+    { "addr": "relays.ff.crypto2099.io",          "port": 3001, "valency": 2, "operator": "SPIKE, Crypto2099, Corp. @adapoolspike" },
+    { "addr": "relays.ff2.crypto2099.io",         "port": 3001, "valency": 2, "operator": "BUFFY, Crypto2099, Corp. @adapoolbuffy" },
     { "addr": "relays.ff.titanstaking.io",        "port": 4321, "valency": 2, "operator": "@TITANstaking @marcelbaumberg" },
 
 
